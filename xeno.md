@@ -60,7 +60,6 @@ permalink: /xeno/
       <li>Cosmic Radiation?</li>
       <li>Beauty Theory</li>
       <li>Cosmophobia</li>
-      <li>Return/Remember</li>
     </ol>
     <p>Talk about the album?</p>
   </body>
