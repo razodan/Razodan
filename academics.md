@@ -3,7 +3,6 @@ layout: page
 title: "Daniel A. Razo: Academics"
 permalink: /academics/
 ---
-<!doctype html>
 <html lang="en">
   <head>
     <title>Daniel A. Razo: Academics</title>
